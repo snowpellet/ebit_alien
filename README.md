@@ -1,2 +1,2 @@
-使用ebiten 做的小游戏\n
-ha
+# ebit_alien
+ebiten做的游戏
